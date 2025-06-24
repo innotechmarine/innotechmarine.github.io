@@ -15,4 +15,4 @@ If you email the developer for support or other feedback, the emails with email 
 We will not disclose your information to any third party except if you expressly consent or where required by law.
   
 ## Contact
-You may reach us by using our website, https://innotechmarine.co/
+You may reach us by using our website, [https://innotechmarine.co/](https://innotechmarine.co/)
