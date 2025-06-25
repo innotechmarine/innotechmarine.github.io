@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Innotech Marine Device Manager
+title: Accutroll
 ---
 
-The Innotech Marine Device Manager is an app available on Android and iOS.
+Accutroll is an app available on Android and iOS.
 

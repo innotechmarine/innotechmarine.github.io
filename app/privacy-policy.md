@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Privacy Policy
-parent: Innotech Marine Device Manager
+parent: Accutroll
 ---
 
-# Innotech Marine Apps Privacy Policy
+# Accutroll Privacy Policy
 
-By using the Innotech Marine Device Manager (the "app"), you agree to this privacy policy. Innotech Marine Device Manager is an app for Android and iOS developed by [Innotech Marine](https://innotechmarine.co/).
+By using the Accutroll (the "app"), you agree to this privacy policy. Accutroll is an app for Android and iOS developed by [Innotech Marine](https://innotechmarine.co/).
   
 ## Collection of Personal Information
 
