@@ -1,4 +1,10 @@
-# Innotech App Privacy Policy
+---
+layout: page
+title: Privacy Policy
+parent: Innotech Marine Device Manager
+---
+
+# Innotech Marine Apps Privacy Policy
 
 By using the Innotech Marine Device Manager (the "app"), you agree to this privacy policy. Innotech Marine Device Manager is an app for Android and iOS developed by [Innotech Marine](https://innotechmarine.co/).
   
